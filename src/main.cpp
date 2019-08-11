@@ -13,8 +13,6 @@
 #include "constants.h"
 #include "vehicle.h"
 #include "costs.h"
-#include "jmt.h"
-//#include "smoother.h"
 
 // for convenience
 using nlohmann::json;
